@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            '@fiveisprime'
+tagline:          'Awkward Web Things'
+description:      '@fiveisprime'
+url:              https://fiveisprime.github.io
+
+author:
+  name:           'Matt Hernandez'
+  url:            https://twitter.com/fiveisprime
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/fiveisprime/fiveisprime.github.io
