@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            '@fiveisprime'
+title:            'fiveisprime'
 tagline:          'Node.js Life'
 description:      '@fiveisprime'
 url:              https://fiveisprime.github.io
