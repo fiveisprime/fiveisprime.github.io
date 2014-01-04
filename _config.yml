@@ -15,7 +15,7 @@ author:
   name:           'Matt Hernandez'
   url:            https://twitter.com/fiveisprime
 
-paginate:         5
+paginate:         3
 
 # Custom vars
 version:          1.0.0
