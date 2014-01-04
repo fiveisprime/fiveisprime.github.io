@@ -24,16 +24,9 @@ object of your `package.json`.
 
 Now create a Makefile that looks about like this:
 
-    SRC = $(wildcard *.js)
+<script src="https://gist.github.com/fiveisprime/8214397.js"></script>
 
-    test: $(SRC)
-      @node node_modules/.bin/jshint $^
-      @node node_modules/.bin/istanbul test node_modules/.bin/_mocha \
-      -R spec -- \
-      --require should \
-      --reporter spec
-
-> Be sure to use tabs when creating your Makefile!
+> Be sure to use tabs when creating your Makefile.
 
 The Makefile is simply running the commands listed in the `test` target and will
 only execute the Istanbul/mocha tests if the lint passes (if the process exits
@@ -41,7 +34,7 @@ with 0).
 
 >  This target will run tests in a directory named `spec`, if your tests are in a
 >  directory named `test`, you will need to change the `-R spec -- \` line to
->  `-R test -- \` and append `.PHONY: test` to the file so that make doesn't try to
+>  `-R test -- \` and uncomment `.PHONY: test` so that make doesn't try to
 >  build your test files directly.
 
 Now you can add the test script to your package.json
