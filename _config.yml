@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            'fiveisprime'
-tagline:          'The more you node...'
+tagline:          'the more you node...'
 description:      '@fiveisprime'
 url:              https://fiveisprime.github.io
 
@@ -18,7 +18,5 @@ author:
 paginate:         3
 
 # Custom vars
-version:          1.0.0
-
 github:
-  repo:           https://github.com/fiveisprime/fiveisprime.github.io
+  home:           https://github.com/fiveisprime
