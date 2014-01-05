@@ -13,10 +13,11 @@ url:              https://fiveisprime.github.io
 
 author:
   name:           'Matt Hernandez'
-  url:            https://twitter.com/fiveisprime
+  url:            https://fiveisprime.github.io
 
 paginate:         3
 
 # Custom vars
-github:
-  home:           https://github.com/fiveisprime
+links:
+  github:           https://github.com/fiveisprime
+  twitter:          https://twitter.com/fiveisprime
