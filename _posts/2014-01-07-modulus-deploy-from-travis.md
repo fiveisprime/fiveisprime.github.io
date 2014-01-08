@@ -22,8 +22,8 @@ need to encrypt it using the travis CLI.
 
     $ travis encrypt MODULUS_TOKEN=4e287c37-2e7d-416f-bf53-dab7d564c262
 
-This will output an the secure variable -- something like `secure: "..."`. If
-you already have a `.travis.yml` file, you can include the `--add` option to add
+This will output a secure variable -- something like `secure: "..."`. If you
+already have a `.travis.yml` file, you can include the `--add` option to add
 the variable to your configuration file automatically.
 
 If you don't already have a configuration file, create a file named
