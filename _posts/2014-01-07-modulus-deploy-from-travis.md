@@ -27,8 +27,7 @@ already have a `.travis.yml` file, you can include the `--add` option to add
 the variable to your configuration file automatically.
 
 If you don't already have a configuration file, create a file named
-`.travis.yml` in the root of your repository and paste the following into the
-file:
+`.travis.yml` in the root of your repository and paste in the following:
 
     language: node_js
     node_js:
