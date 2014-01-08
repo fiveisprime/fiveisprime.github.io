@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deploying a Modulus Project on Travis
+title: Deploying a Modulus Project From Travis
 ---
 
 You'll need the following (or make sure they are up to date):
