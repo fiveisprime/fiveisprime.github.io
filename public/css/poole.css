@@ -188,6 +188,10 @@ pre code {
   font-size: .8rem;
 }
 
+td.line-numbers {
+  width: 45px;
+}
+
 /* Quotes */
 blockquote {
   padding: .5rem 1rem;
