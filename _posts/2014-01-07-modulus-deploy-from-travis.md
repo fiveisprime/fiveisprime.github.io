@@ -32,8 +32,8 @@ If you don't already have a configuration file, create a file named
     language: node_js
     node_js:
       # Include which versions of node to test against here.
-      - 0.8.x
-      - 0.10.x
+      - '0.8'
+      - '0.10'
     env:
       global:
         # Replace the next line with the output from travis.
