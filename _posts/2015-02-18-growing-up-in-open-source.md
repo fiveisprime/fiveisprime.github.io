@@ -52,10 +52,10 @@ professional growth.
 
 ### Moving forward
 
-Let's focus on growing and shipping software by creating healthy engineering
-environments. "Burn the style guide" so to speak and let people be people and
-learn what works best for them in what situations. Teach flexibility and how to
-be a good open source contributor.
+Let's focus on growing as engineers and shipping software by creating healthy
+engineering environments. "Burn the style guide" so to speak and let people be
+people and learn what works best for them in what situations. Teach flexibility
+and how to be a good open source contributor.
 
 P.S. I'm writing this down so that I stick to it and thanks CJ et al. for
 helping me get here.
