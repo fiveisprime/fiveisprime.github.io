@@ -390,6 +390,10 @@ a.pagination-item:hover {
   background-color: #f5f5f5;
 }
 
+.twitter-tweet {
+  margin: 0 auto !important;
+}
+
 @media (min-width: 30rem) {
   .pagination {
     margin: 3rem 0;
