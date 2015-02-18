@@ -34,8 +34,7 @@ limiting both their creativity and their flexibility.
 
 So what does this have to do with open source?
 
-For the last two years, I've been working on JavaScript applications and one of
-the best parts of the Node and JavaScript ecosystem is the openness. The
+One of the best parts of the Node and JavaScript ecosystem is the openness. The
 ability to contribute to the what we are all using is the primary reason for
 the growth of Node and its adoption. This message sums up how this relates to
 open source
