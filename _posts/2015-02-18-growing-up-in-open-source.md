@@ -37,7 +37,8 @@ So what does this have to do with open source?
 For the last two years, I've been working on JavaScript applications and one of
 the best parts of the Node and JavaScript ecosystem is the openness. The
 ability to contribute to the what we are all using is the primary reason for
-the growth of Node and its adoption. This message shows how wrong I am
+the growth of Node and its adoption. This message sums up how this relates to
+open source
 
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/brianleroux">@brianleroux</a> <a href="https://twitter.com/dscape">@dscape</a> <a href="https://twitter.com/fiveisprime">@fiveisprime</a> <a href="https://twitter.com/olizilla">@olizilla</a> <a href="https://twitter.com/ceejbot">@ceejbot</a> new developers who are too tied to a code style don&#39;t contribute to other projects well</p>&mdash; Mikeal Rogers (@mikeal) <a href="https://twitter.com/mikeal/status/568095459547299840">February 18, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
